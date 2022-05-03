@@ -2,7 +2,11 @@
 
 获取链家指定城市、指定地区楼盘信息，并导出 excel 表格方便查看。
 
-## 使用
+## 效果
+
+<img src="https://img.yueluo.club/blog/img/3710b7d0a76201e8e01d92c33b7fc9128.png" />
+
+## 安装使用
 
 安装依赖
 

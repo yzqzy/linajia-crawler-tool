@@ -1,0 +1,17 @@
+{
+  "name": "linajia-excel-tool",
+  "version": "1.0.0",
+  "description": "获取链家楼盘信息",
+  "main": "app.js",
+  "scripts": {
+    "serve": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "keywords": ["lianjia", "js", "pnpm"],
+  "author": "月落",
+  "license": "MIT",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "request": "^2.88.2"
+  }
+}

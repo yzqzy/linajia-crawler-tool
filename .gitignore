@@ -1,6 +1,10 @@
 node_modules/
-imgs/
-dist/
+
+imgs/*.png
+imgs/*.jpg
+imgs/prod-*
+
+dist/*.xlsx
 
 # Wakatime
 *.wakatime*

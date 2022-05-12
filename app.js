@@ -65,16 +65,16 @@ const crawler = async (options) => {
     header: HEADERS,
     sheetName: '列表',
     imageKeys: [
-      {
-        name: 'cover_pic',
-        imgWidth: '100',
-        imgHeight: '100',
-      },
-      {
-        name: 'preload_detail_image',
-        imgWidth: '100',
-        imgHeight: '100',
-      },
+      // {
+      //   name: 'cover_pic',
+      //   imgWidth: '100',
+      //   imgHeight: '100',
+      // },
+      // {
+      //   name: 'preload_detail_image',
+      //   imgWidth: '100',
+      //   imgHeight: '100',
+      // },
     ],
   }
 

@@ -38,4 +38,4 @@ pnpm start
 
 ## 联系方式
 
-联系邮箱：yueluo.yang@qq.com
+联系邮箱：yueluo.yang@gmail.com

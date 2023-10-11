@@ -1,4 +1,4 @@
-# linajia-crawler-tool
+# linajia-crawler-tool（已废弃）
 
 抓取链家指定城市、指定地区楼盘信息，并导出 excel 表格方便查看。
 
